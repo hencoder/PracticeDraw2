@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">HenCoder 绘制 2</string>
+    <string name="title_linear_gradient">LinearGradient</string>
+    <string name="title_radial_gradient">RadialGradient</string>
+    <string name="title_sweep_gradient">SweepGradient</string>
+    <string name="title_bitmap_shader">BitmapShader</string>
+    <string name="title_compose_shader">ComposeShader</string>
+    <string name="title_lighting_color_filter">LightingColorFilter</string>
+    <string name="title_color_matrix_color_filter">ColorMatrixColorFilter</string>
+    <string name="title_xfermode">setXfermode()</string>
+    <string name="title_stroke_cap">setStrokeCap()</string>
+    <string name="title_stroke_join">setStrokeJoin()</string>
+    <string name="title_stroke_miter">setStrokeMiter()</string>
+    <string name="title_path_effect">setPathEffect()</string>
+    <string name="title_shader_layer">setShadowLayer()</string>
+    <string name="title_mask_filter">setMaskFilter()</string>
+    <string name="title_fill_path">setFillPath()</string>
+    <string name="title_text_path">setTextPath()</string>
+</resources>
