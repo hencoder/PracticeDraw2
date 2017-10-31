@@ -31,7 +31,7 @@ public class Practice07ColorMatrixColorFilterView extends View {
         bitmap = BitmapFactory.decodeResource(getResources(), R.drawable.batman);
 
         // 使用 setColorFilter() 设置一个 ColorMatrixColorFilter
-        // 用 ColorMatrixColorFilter.setSaturation() 把饱和度去掉
+        // 用 ColorMatrix.setSaturation() 把饱和度去掉
     }
 
     @Override
