@@ -42,14 +42,17 @@ public class Practice10StrokeJoinView extends View {
 
         canvas.translate(100, 100);
         // 第一种形状：MITER
+        paint.setStrokeJoin(Paint.Join.MITER);
         canvas.drawPath(path, paint);
 
         canvas.translate(300, 0);
         // 第二种形状：BEVEL
+        paint.setStrokeJoin(Paint.Join.BEVEL);
         canvas.drawPath(path, paint);
 
         canvas.translate(300, 0);
         // 第三种形状：ROUND
+        paint.setStrokeJoin(Paint.Join.ROUND);
         canvas.drawPath(path, paint);
 
         canvas.restore();
