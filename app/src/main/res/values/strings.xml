@@ -14,6 +14,6 @@
     <string name="title_path_effect">setPathEffect()</string>
     <string name="title_shader_layer">setShadowLayer()</string>
     <string name="title_mask_filter">setMaskFilter()</string>
-    <string name="title_fill_path">setFillPath()</string>
-    <string name="title_text_path">setTextPath()</string>
+    <string name="title_fill_path">getFillPath()</string>
+    <string name="title_text_path">getTextPath()</string>
 </resources>
